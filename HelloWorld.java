@@ -3,7 +3,8 @@ public class HelloWorld {
     public static void main(String[] args) {
 	// Moved the below line 
         // Prints "Hello, World" to the terminal window.
-        // Here right Here is another comment
+       
+	// Here right Here is another comment
 	
 	System.out.println("A test line");
 	System.out.println("This is a diff line");
